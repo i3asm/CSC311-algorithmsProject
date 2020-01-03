@@ -5,7 +5,7 @@ import java.util.LinkedList;
 
 public class Reader {
 
-    public String[] ReadFiles(String fileName) {
+    public static String[] ReadFiles(String fileName) {
         LinkedList<String> lines = new LinkedList<>();
         String line;
         try {

@@ -1,34 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e8cab92-3a07-497c-841d-c9fae760c54b" name="Default Changelist" comment="" />
+    <list default="true" id="cf20b56a-a80d-463d-856d-78098fd8b089" name="Default Changelist" comment="long time no see :)">
+      <change afterPath="$PROJECT_DIR$/results images/BM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results images/KMP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results images/Picture1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results images/bruteForce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results images/performance over input size.crtx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BoyerMooreAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BoyerMooresAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BruteForceAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/KMPAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/Reader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/SamplesGanarator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/Writer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/1000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/1000.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/10000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/10000.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/1100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/1100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/1200.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/1200.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/1300.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/1300.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/1400.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/1400.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/1500.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/1500.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/1600.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/1600.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/1700.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/1700.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/1800.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/1800.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/1900.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/1900.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/200.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/200.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/2000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/2000.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/2100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/2100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/2200.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/2200.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/2300.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/2300.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/2400.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/2400.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/2500.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/2500.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/2600.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/2600.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/2700.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/2700.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/2800.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/2800.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/2900.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/2900.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/300.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/300.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/3000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/3000.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/3100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/3100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/3200.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/3200.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/3300.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/3300.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/3400.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/3400.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/3500.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/3500.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/3600.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/3600.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/3700.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/3700.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/3800.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/3800.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/3900.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/3900.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/400.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/400.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/4000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/4000.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/4100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/4100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/4200.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/4200.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/4300.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/4300.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/4400.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/4400.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/4500.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/4500.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/4600.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/4600.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/4700.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/4700.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/4800.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/4800.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/4900.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/4900.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/500.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/500.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/5000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/5000.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/5100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/5100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/5200.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/5200.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/5300.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/5300.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/5400.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/5400.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/5500.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/5500.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/5600.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/5600.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/5700.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/5700.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/5800.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/5800.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/5900.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/5900.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/600.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/600.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/6000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/6000.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/6100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/6100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/6200.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/6200.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/6300.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/6300.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/6400.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/6400.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/6500.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/6500.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/6600.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/6600.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/6700.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/6700.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/6800.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/6800.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/6900.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/6900.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/700.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/700.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/7000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/7000.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/7100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/7100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/7200.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/7200.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/7300.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/7300.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/7400.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/7400.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/7500.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/7500.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/7600.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/7600.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/7700.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/7700.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/7800.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/7800.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/7900.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/7900.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/800.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/800.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/8000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/8000.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/8100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/8100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/8200.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/8200.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/8300.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/8300.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/8400.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/8400.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/8500.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/8500.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/8600.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/8600.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/8700.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/8700.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/8800.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/8800.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/8900.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/8900.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/900.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/900.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/9000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/9000.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/9100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/9100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/9200.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/9200.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/9300.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/9300.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/9400.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/9400.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/9500.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/9500.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/9600.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/9600.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/9700.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/9700.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/9800.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/9800.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/9900.txt" beforeDir="false" afterPath="$PROJECT_DIR$/samples/9900.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BoyerMooresAlgorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BruteForceAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BruteForceAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KMPAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KMPAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SamplesGanarator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SamplesGanarator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1TfCcUA3GyyYaKqqP2NzD6vGBht" />
+  <component name="ProjectId" id="1UBkDegzsgo71mAMAtyhpzeaEuA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -45,14 +168,14 @@
   <component name="RunManager" selected="Application.main">
     <configuration name="SamplesGanarator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SamplesGanarator" />
-      <module name="project" />
+      <module name="algorithmsProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main" />
-      <module name="project" />
+      <module name="algorithmsProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -69,19 +192,37 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1e8cab92-3a07-497c-841d-c9fae760c54b" name="Default Changelist" comment="" />
-      <created>1573841841197</created>
+      <changelist id="cf20b56a-a80d-463d-856d-78098fd8b089" name="Default Changelist" comment="" />
+      <created>1574837258388</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1573841841197</updated>
-      <workItem from="1573841843667" duration="11851000" />
-      <workItem from="1573978995988" duration="2291000" />
-      <workItem from="1574056179647" duration="321000" />
-      <workItem from="1574311962774" duration="2269000" />
+      <updated>1574837258388</updated>
+      <workItem from="1574837263058" duration="3083000" />
+      <workItem from="1574926542991" duration="144000" />
+      <workItem from="1576160568168" duration="3520000" />
+      <workItem from="1576166218135" duration="8018000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="long time no see :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="long time no see :)" />
   </component>
 </project>
