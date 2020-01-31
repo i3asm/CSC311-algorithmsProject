@@ -1,5 +1,9 @@
 <div style="text-align:center"><img src="https://wakatime.com/badge/github/i3asm/algorithmsProject" /></div>
-jskdncd
+
+
+jskdncd.
+
+
 [![time tracker](https://wakatime.com/badge/github/i3asm/algorithmsProject.svg)](https://wakatime.com/badge/github/i3asm/algorithmsProject)
 
 # algorithmsProject
