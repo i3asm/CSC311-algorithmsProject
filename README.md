@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="https://wakatime.com/badge/github/i3asm/algorithmsProject" /></div>
+<div style="text-align:center"><img src="https://wakatime.com/badge/github/i3asm/algorithmsProject.svg" /></div>
 
 
 jskdncd.
